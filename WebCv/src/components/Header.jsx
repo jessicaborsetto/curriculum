@@ -15,7 +15,7 @@ function Header(){
                         <h4 className='title'>Junior Frontend Developer</h4>
                         <Row>
                             <Col xs={12} sm={12} lg={6}>
-                            <Button className="rounded-pill homeBtn1"> <a href='https://www.canva.com/design/DAE2vwm6Rl8/rr_4Ko-ekcwFsRc9Lbyd9g/view?utm_content=DAE2vwm6Rl8&utm_campaign=designshare&utm_medium=link&utm_source=editor'>Download CV</a></Button>
+                            <Button className="rounded-pill homeBtn1"> <a target='blank' href='https://www.canva.com/design/DAE2vwm6Rl8/rr_4Ko-ekcwFsRc9Lbyd9g/view?utm_content=DAE2vwm6Rl8&utm_campaign=designshare&utm_medium=link&utm_source=editor'>Download CV</a></Button>
                             </Col>
                             <Col  xs={12} sm={12} lg={6}>
                             <Button className="rounded-pill homeBtn2"><a href='#contacts'>Contact Info</a></Button>
