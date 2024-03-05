@@ -8,8 +8,8 @@ function Header(){
         
             <div className='header' id='home'>
                 <Row className='home'>
-                    <Col xs={12} sm={12} lg={6} className='img img-fluid'></Col>
-                    <Col xs={12} sm={12} lg={6}>
+                    <Col xs={12} sm={12} lg={5} className='img rounded-circle'></Col>
+                    <Col xs={12} sm={12} lg={4}>
                         <h6>Hello, I'm</h6>
                         <h2>Jessica Borsetto</h2>
                         <h4 className='title'>Junior Frontend Developer</h4>
